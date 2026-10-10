@@ -1,0 +1,35 @@
+{
+  "bust-1": {
+    "src": "assets/img/bust-1.webp",
+    "title": "alexander the great",
+    "creator": "Xuan Che",
+    "creator_url": "https://www.flickr.com/photos/69275268@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/69275268@N00/5496474896",
+    "source": "flickr"
+  },
+  "bust-2": {
+    "src": "assets/img/bust-2.webp",
+    "title": "A Secret from Above by Hiplyte Mouline [1872]",
+    "creator": "sfmission.com",
+    "creator_url": "https://www.flickr.com/photos/17281186@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/17281186@N00/5218147344",
+    "source": "flickr"
+  },
+  "statue-1": {
+    "src": "assets/img/statue-1.webp",
+    "title": "Vatican Museum - Offering - Shoes on Wires",
+    "creator": "Shoes on Wires",
+    "creator_url": "https://www.flickr.com/photos/9290458@N07",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/9290458@N07/3086617192",
+    "source": "flickr"
+  }
+}
