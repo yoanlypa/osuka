@@ -1,0 +1,11 @@
+// Publicación en Cloudflare (Workers con static assets), conectado a GitHub.
+// Cloudflare: Workers & Pages > Create > Import a repository > este repo.
+// Build command: vacío. Deploy command: npx wrangler deploy (el de serie).
+// El nombre del proyecto en Cloudflare debe ser exactamente "osuka".
+{
+  "name": "osuka",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./"
+  }
+}

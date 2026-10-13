@@ -1,0 +1,11 @@
+# Archivos del repo que NO se publican en Cloudflare
+.git
+.gitignore
+.assetsignore
+wrangler.jsonc
+.htaccess
+README.md
+LEEME.txt
+Caddyfile
+Dockerfile
+Staticfile
